@@ -10,29 +10,13 @@ This project is developed as a prototype and policy demonstration, aligned with 
 Key Features
 
 Governance performance scorecards
-
 Visual progress bars for key metrics
-
 Citizen-centric, mobile-first UI
-
 Privacy-aware, read-only data access
-
 Scalable architecture for national adoption
 
 Tech Stack
-
 React Native (Expo)
-
 JavaScript
 
-Modular component-based architecture
 
-Use Case
-
-Civic-tech demonstrations
-
-Policy innovation showcases
-
-Youth-led governance initiatives
-
-Transparency and accountability frameworks
